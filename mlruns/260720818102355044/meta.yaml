@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/lokeshkumar/Code/mlflow/mlruns/260720818102355044
+creation_time: 1679180971259
+experiment_id: '260720818102355044'
+last_update_time: 1679180971259
+lifecycle_stage: active
+name: basic_classifier

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokeshkumar/Code/mlflow/mlruns/260720818102355044/f6ab56dfb3704ac7a32e92e5983c122f/artifacts
+end_time: 1679181104615
+entry_point_name: ''
+experiment_id: '260720818102355044'
+lifecycle_stage: active
+run_id: f6ab56dfb3704ac7a32e92e5983c122f
+run_name: learned-newt-144
+run_uuid: f6ab56dfb3704ac7a32e92e5983c122f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679181099637
+status: 3
+tags: []
+user_id: lokeshkumar

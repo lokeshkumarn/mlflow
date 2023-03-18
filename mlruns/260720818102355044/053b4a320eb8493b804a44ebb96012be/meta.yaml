@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lokeshkumar/Code/mlflow/mlruns/260720818102355044/053b4a320eb8493b804a44ebb96012be/artifacts
+end_time: 1679180980389
+entry_point_name: ''
+experiment_id: '260720818102355044'
+lifecycle_stage: active
+run_id: 053b4a320eb8493b804a44ebb96012be
+run_name: bustling-ray-880
+run_uuid: 053b4a320eb8493b804a44ebb96012be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679180971709
+status: 3
+tags: []
+user_id: lokeshkumar
